@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Kola';
+    src: url('Kola-Regular.eot');
+    src: local('Kola'), local('Kola-Regular'),
+        url('Kola-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Kola-Regular.woff2') format('woff2'),
+        url('Kola-Regular.woff') format('woff'),
+        url('Kola-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
